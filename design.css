@@ -1,0 +1,26 @@
+body{
+    background-color:beige;
+}
+
+h1{
+    color:#618264;
+}
+h2{
+    background-color: #618264;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    align-items: center;
+}
+img{
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    width: 245px;
+    height: 245px;
+    float: right;
+}
+
+.al{
+    font-size: 30px;
+}
